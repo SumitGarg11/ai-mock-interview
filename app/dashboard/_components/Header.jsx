@@ -26,7 +26,7 @@ function Header() {
           
          >Dashboard</li>
         
-        <li  onClick={()=>router.replace('/dashboard')} className=' hover:text-primary hover:font-bold transition-all cursor-pointer '
+        <li  onClick={()=>router.replace('/dashboard/upgrade')} className=' hover:text-primary hover:font-bold transition-all cursor-pointer '
           
         >Upgrade</li>
         <li  onClick={()=>router.replace('/dashboard')}  className= 'hover:text-primary hover:font-bold transition-all cursor-pointer  '>
