@@ -1,12 +1,11 @@
 # Mock AI Interview
-
-![Home Page](./screenshots/image1.png)
-![Log In](./screenshots/image2.png)
-![DashBoard](./screenshots/image3.png)
-![Add Interview](./screenshots/image7.png)
-![Interview Details](./screenshots/image4.jpg)
-![Start Interview](./screenshots/image5.jpg)
-![FeedBack](./screenshots/image6.png)
+![Home Page](https://github.com/user-attachments/assets/f7ce79de-d22b-40ec-8f77-30b6b9ae3d61)
+![Log In](https://github.com/user-attachments/assets/688fe576-3c65-4d22-a155-deae462a3aa4)
+![DashBoard](https://github.com/user-attachments/assets/96b5095b-bb85-4e05-8445-2c70af750ab2)
+![Add Interview](https://github.com/user-attachments/assets/fbad2be7-7131-4a55-b938-3c65f88f4ecf)
+![Interview Details](https://github.com/user-attachments/assets/1b5867f6-df58-449b-a4bb-aabaa8c896da)
+![Start Interview](https://github.com/user-attachments/assets/a25a149f-e14a-4d99-ab3e-664aa0451038)
+![FeedBack](https://github.com/user-attachments/assets/a635004b-f8fe-4c9d-937d-512f8fadf667)
 
 Mock AI Interview is an AI-powered platform designed to simulate real-world technical interviews with instant feedback. It leverages modern technologies like Next.js, Drizzle ORM, and Google Gemini AI to offer a seamless and effective interview preparation experience.
 
